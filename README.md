@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi there! I'm Ben Lachovitz
 
-<!--
-**BenLachovitz/benlachovitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate (B.Sc., GPA 85) passionate about building smart, efficient, and creative software solutions.
 
-Here are some ideas to get you started:
+🔧 My hands-on project experience includes:
+- 🧠 AI integration with LLaMA via the Groq API
+- 🕹️ Unity-based simulation & game development (scene generation, object placement, pathfinding)
+- 🚀 Simulation tools using C++ and A* search
+- 🛠️ Backend tools with Supabase and RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in full-stack development, AI, and scalable systems — and I love solving tough technical problems.
+
+💼 Currently seeking a full-time developer position where I can contribute, grow, and collaborate with a driven tech team.
+
+**Languages & Tools**:  
+Python · C++ · Java · C# · Unity · Supabase · REST APIs · Git
+
+📫 You can check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)!
+
