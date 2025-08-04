@@ -15,5 +15,5 @@ I'm especially interested in full-stack development, AI, and scalable systems 鈥
 **Languages & Tools**:  
 Python 路 C++ 路 Java 路 C# 路 Unity 路 Supabase 路 REST APIs 路 Git
 
-馃摣 You can check out my projects below or connect with me on [LinkedIn](www.linkedin.com/in/ben-lachovitz)!
+馃摣 You can check out my projects below or connect with me on [LinkedIn](https://www.linkedin.com/in/ben-lachovitz)!
 
