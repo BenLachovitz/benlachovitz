@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Ben Lachovitz
 
-I'm a recent Computer Science graduate (B.Sc., GPA 85) passionate about building smart, efficient, and creative software solutions.
+I'm a recent Computer Science graduate (B.Sc., GPA 86) passionate about building smart, efficient, and creative software solutions.
 
 🔧 My hands-on project experience includes:
 - 🧠 AI integration with LLaMA via the Groq API
